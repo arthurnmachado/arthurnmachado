@@ -21,5 +21,5 @@
 
 ## Entre em contato comigo:
 
-<a href="https://www.linkedin.com/in/arthurnmachado/" target="_blank"><img align="center" alt="Git" height="20" width="20" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/arthurnmachado/" target="_blank"><img align="center" alt="Git" height="80" width="80" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"></a>
 | [fuginceas@gmail.com](mailto:fuginceas@gmail.com)
