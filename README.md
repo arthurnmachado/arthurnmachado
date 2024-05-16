@@ -17,3 +17,9 @@
 </div>
 
 ##
+
+
+## Entre em contato comigo:
+
+<a href="https://www.linkedin.com/in/arthurnmachado/" target="_blank"><img align="center" alt="Git" height="20" width="20" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/linkedin/linkedin-original.svg"></a>
+| [fuginceas@gmail.com](mailto:fuginceas@gmail.com)
