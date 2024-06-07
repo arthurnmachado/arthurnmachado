@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu perfil! 
+## Hello! Welcome to my profile! 
 
 <div align="center">
   <a href="https://github.com/arthurnmachado">
@@ -19,7 +19,7 @@
 ##
 
 
-## Entre em contato comigo:
+## Get in touch with me:
 
 <a href="https://www.linkedin.com/in/arthurnmachado/" target="_blank"><img align="center" alt="Git" height="80" width="80" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"></a>
 | [fuginceas@gmail.com](mailto:fuginceas@gmail.com)
