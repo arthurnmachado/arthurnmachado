@@ -78,7 +78,3 @@ I like to think of programming as a mix of engineering and art — building thin
 - 🎮 Gamer  
 - 🍳 Cooking (sometimes it works, sometimes it's an experiment)  
 - ❤️ I love Lara  
-
----
-
-> "Clean code is optional. Understanding what you're building is not."
