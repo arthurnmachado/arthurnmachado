@@ -1,25 +1,84 @@
-## Hello! Welcome to my profile! 
+# Hey, I'm Arthur Nagase Machado 👋
+
+I like to think of programming as a mix of engineering and art — building things that not only work, but make sense.
+
+## 🚀 About me
+
+- 💻 Software & Data Engineer (focused on data pipelines and backend systems)
+- 🏠 Currently working remotely
+- 📊 Strong focus on Data Engineering, APIs, and workflow orchestration
+- ⚙️ Experience with building and maintaining data pipelines, integrations, and automation
+- 🎯 Always trying to understand how things work under the hood
+
+## 🧠 What I'm working on
+
+- Data pipelines and orchestration using **Airflow**
+- Data transformations with **dbt**
+- API integrations and backend services
+- Workflow automation (including CI/CD and GitHub Actions)
+
+## 🤝 I'm open to
+
+- Collaborating on data engineering or backend projects  
+- Learning new tools and improving system design skills  
+- Anything that challenges me technically  
+
+## 📫 Contact
+
+- Email: fuginceas@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/arthurnmachado/
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python
+- JavaScript
+- C/C++
+- PHP
+- HTML & CSS
+
+### ⚙️ Frameworks & Tools
+- Django
+- Laravel
+- Vue.js / Vuetify
+
+### 📊 Data Engineering
+- Apache Airflow
+- dbt
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### 🧰 Dev & Productivity
+- Git & GitHub
+- Docker
+- Linux / Windows
+- VS Code
+- Jira
+- Scrum / Kanban
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/arthurnmachado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurnmachado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnmachado&hide=scss,jupyter%20notebook&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/php/php-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/django/django-plain.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurnmachado&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnmachado&layout=compact&theme=maroongold&langs_count=10"/>
 </div>
 
-##
+---
 
+## ⚡ Fun stuff
 
-## Get in touch with me:
+- 🎸 Guitar player  
+- 🎮 Gamer  
+- 🍳 Cooking (sometimes it works, sometimes it's an experiment)  
+- ❤️ I love Lara  
 
-<a href="https://www.linkedin.com/in/arthurnmachado/" target="_blank"><img align="center" alt="Git" height="80" width="80" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"></a>
-| [fuginceas@gmail.com](mailto:fuginceas@gmail.com)
+---
+
+> "Clean code is optional. Understanding what you're building is not."
